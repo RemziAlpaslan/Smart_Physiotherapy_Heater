@@ -1,6 +1,6 @@
 # Smart_Physiotherapy_Heater
 
-*Bir bash dosyası oluşturdum
+##Bir bash dosyası oluşturdum
 
 nano proje.sh
 
